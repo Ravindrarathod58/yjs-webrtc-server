@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "NexCode Free WebRTC Signaling Server",
   "scripts": {
-    "start": "y-webrtc-signaling"
+    "start": "npx y-webrtc-signaling"
   },
   "dependencies": {
     "y-webrtc": "^10.3.0"
